@@ -10,7 +10,7 @@ products:
   - dotnet
   - aspnet
   - aspnet-core
-  - dotnet-core
+  - dotnet
   - ms-graph
   - azure-active-directory  
   - azure-active-directory-b2c
